@@ -1,6 +1,3 @@
-## NOTE: We have migrated reported issues to FogBugz. You can only log further issues via the Unity bug tracker. To see how, read [this](https://unity3d.com/unity/qa/bug-reporting).
-
-## NOTE 2: Development by Unity developers happens in an private repo. Changes are mirrored from that private repo to this public repo every few weeks. [This](https://forum.unity.com/threads/important-upcoming-changes-to-the-graphics-repository.1239826/) forum thread can be used to discuss the mirroring.
 
 # Unity Scriptable Render Pipeline
 The Scriptable Render Pipeline (SRP) is a Unity feature designed to give artists and developers the tools they need to create modern, high-fidelity graphics in Unity. Unity provides two pre-built Scriptable Render Pipelines:
